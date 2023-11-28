@@ -1,1 +1,2 @@
-print(1)
+def fun(a):
+    print(1)
